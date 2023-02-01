@@ -63,6 +63,10 @@ a:hover {
   font-weight: bold;
 }
 
+span:hover {
+  color: #7158EF;
+}
+
 ul {
   margin-top: 7.2rem;
 }
